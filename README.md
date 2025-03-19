@@ -1,1 +1,0 @@
-# library-manger-3
